@@ -1,4 +1,4 @@
-# Maven Market Sales Insights Dashboard
+# POWER BI : Maven Market Sales Insights Dashboard
 
 ## Project Overview
 
@@ -38,4 +38,4 @@ The dashboard was built using Power BI, with data cleaning performed in Power Qu
 
 ## Dashboard Link 
 https://app.powerbi.com/view?r=eyJrIjoiOGE5MjE3NGMtYzc0ZC00M2FiLThmOTEtNDdkMzAyMjk5MGI0IiwidCI6IjU2OGU1ZDUxLTgyMGEtNGJkYS1hZDY2LWMwNGVjZWJjZDAyMyIsImMiOjEwfQ%3D%3D
-# Power-BI
+
