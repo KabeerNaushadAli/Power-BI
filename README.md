@@ -1,5 +1,8 @@
 # POWER BI : Maven Market Sales Insights Dashboard
 
+## Dashboard Link 
+https://app.powerbi.com/view?r=eyJrIjoiNDRiMGM3ZTktNDZkOC00ODY2LWFkZGQtZTFkMjhhOWYyNjliIiwidCI6IjU2OGU1ZDUxLTgyMGEtNGJkYS1hZDY2LWMwNGVjZWJjZDAyMyIsImMiOjEwfQ%3D%3D
+
 ## Project Overview
 
 The Maven Market Sales Insights Dashboard is a hands-on project from the Udemy course "Microsoft Power BI Desktop for Business Intelligence" by Maven Analytics. The project challenges students to apply their learning by building a comprehensive dashboard from scratch. This dashboard provides a detailed overview of Maven Market's sales performance, focusing on key metrics such as revenue, profits, top products, and customer trends across different regions. The aim is to help the sales team track monthly growth, identify trends, and make informed business decisions.
@@ -36,6 +39,4 @@ This dashboard enables the sales team to identify high-profit-margin products as
 ## Tools & Techniques Used
 The dashboard was built using Power BI, with data cleaning performed in Power Query and DAX calculations used for custom metrics.
 
-## Dashboard Link 
-https://app.powerbi.com/view?r=eyJrIjoiNDRiMGM3ZTktNDZkOC00ODY2LWFkZGQtZTFkMjhhOWYyNjliIiwidCI6IjU2OGU1ZDUxLTgyMGEtNGJkYS1hZDY2LWMwNGVjZWJjZDAyMyIsImMiOjEwfQ%3D%3D
 
