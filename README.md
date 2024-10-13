@@ -37,5 +37,5 @@ This dashboard enables the sales team to identify high-profit-margin products as
 The dashboard was built using Power BI, with data cleaning performed in Power Query and DAX calculations used for custom metrics.
 
 ## Dashboard Link 
-https://app.powerbi.com/view?r=eyJrIjoiOGE5MjE3NGMtYzc0ZC00M2FiLThmOTEtNDdkMzAyMjk5MGI0IiwidCI6IjU2OGU1ZDUxLTgyMGEtNGJkYS1hZDY2LWMwNGVjZWJjZDAyMyIsImMiOjEwfQ%3D%3D
+https://app.powerbi.com/view?r=eyJrIjoiNDRiMGM3ZTktNDZkOC00ODY2LWFkZGQtZTFkMjhhOWYyNjliIiwidCI6IjU2OGU1ZDUxLTgyMGEtNGJkYS1hZDY2LWMwNGVjZWJjZDAyMyIsImMiOjEwfQ%3D%3D
 
